@@ -1,28 +1,29 @@
 # React Projects
 
-#### React Course
+Saw this [video](https://youtu.be/a_7Z7C_JCyo) and decided to try it out
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+## Corresponding Topics
 
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Tutorial Video
-
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
-
-## Corresponding Tutorial Topics
-
-#### useState
+### useState
 
 1. Birthday Reminder
 
-#### useEffect and Conditional Rendering
+**original output:**
+
+![image](https://user-images.githubusercontent.com/57343545/174465793-2b8e14b5-2771-40ee-b0aa-8799c80fe4ad.png)
+
+**my output:**
+
+Demo → [Link](https://birthday-reminder-plskz.vercel.app)
+
+Code → [Link](https://github.com/plskz/react-projects/tree/sol/01-birthday-reminder/setup)
+
+- Added `Add random` and made the it responsive
+  ![image](https://user-images.githubusercontent.com/57343545/174465803-941d5d11-eccd-4007-a658-4eb093fc855d.png)
+
+  https://user-images.githubusercontent.com/57343545/174465888-e82303cd-44a5-4759-9ad5-3cfc94bbfe08.mp4
+
+### useEffect and Conditional Rendering
 
 2. Tours
 3. Reviews
@@ -31,38 +32,25 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 6. Tabs
 7. Slider
 
-#### Forms
+### Forms
 
 8. Lorem Ipsum Generator
 9. Color Shades Generator
 10. Grocery Bud
 
-#### useRef
+### useRef
 
 11. Navbar
 
-#### useContext
+### useContext
 
 12. Modal And Sidebar
 13. Stripe Submenus
 
-#### useReducer and useContext
+### useReducer and useContext
 
 14. Cart
 
-#### React Router and useCallback
+### React Router and useCallback
 
 15. Cocktails
-
-## Advanced Projects (Course Exclusive)
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-16. Markdown Preview
-17. Random Person
-18. Pagination
-19. Stock Photos
-20. Dark Mode
-21. Movie DB
-22. Hacker News
-23. Quiz
