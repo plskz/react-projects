@@ -27,16 +27,29 @@ Code → [Link](https://github.com/plskz/react-projects/tree/sol/01-birthday-rem
 ### useEffect and Conditional Rendering
 
 2. Tours
+
+same output. used `axios` instead of `fetch`. decided not to deploy anymore
+
+![image](https://user-images.githubusercontent.com/57343545/174477156-bb8b32be-737d-4268-b2ac-62887d7cab5f.png)
+
+https://user-images.githubusercontent.com/57343545/174479020-860a4ab1-3e38-49b0-9037-feda5b3a4061.mp4
+
 3. Reviews
+
 4. Questions
+
 5. Menu
+
 6. Tabs
+
 7. Slider
 
 ### Forms
 
 8. Lorem Ipsum Generator
+
 9. Color Shades Generator
+
 10. Grocery Bud
 
 ### useRef
@@ -46,6 +59,7 @@ Code → [Link](https://github.com/plskz/react-projects/tree/sol/01-birthday-rem
 ### useContext
 
 12. Modal And Sidebar
+
 13. Stripe Submenus
 
 ### useReducer and useContext
