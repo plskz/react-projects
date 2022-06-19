@@ -18,7 +18,8 @@ Demo → [Link](https://birthday-reminder-plskz.vercel.app)
 
 Code → [Link](https://github.com/plskz/react-projects/tree/sol/01-birthday-reminder/setup)
 
-- Added `Add random` and made the it responsive
+- Added `Add random` and made it responsive
+
   ![image](https://user-images.githubusercontent.com/57343545/174465803-941d5d11-eccd-4007-a658-4eb093fc855d.png)
 
   https://user-images.githubusercontent.com/57343545/174465888-e82303cd-44a5-4759-9ad5-3cfc94bbfe08.mp4
