@@ -6,7 +6,7 @@ Saw this [video](https://youtu.be/a_7Z7C_JCyo) and decided to try it out
 
 ### useState
 
-1. Birthday Reminder
+**1. Birthday Reminder**
 
 **original output:**
 
@@ -26,7 +26,7 @@ Code → [Link](https://github.com/plskz/react-projects/tree/sol/01-birthday-rem
 
 ### useEffect and Conditional Rendering
 
-2. Tours
+**2. Tours**
 
 same output. used `axios` instead of `fetch`. decided not to deploy anymore
 
@@ -34,7 +34,11 @@ same output. used `axios` instead of `fetch`. decided not to deploy anymore
 
 https://user-images.githubusercontent.com/57343545/174479020-860a4ab1-3e38-49b0-9037-feda5b3a4061.mp4
 
-3. Reviews
+**3. Reviews**
+
+same output. different approach
+
+https://user-images.githubusercontent.com/57343545/174530559-6978ba29-49a3-4d6b-ae59-33f71d97b20d.mp4
 
 4. Questions
 
