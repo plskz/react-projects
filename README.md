@@ -46,7 +46,11 @@ same output. no need to store the data in `useState([])`
 
 https://user-images.githubusercontent.com/57343545/174538114-6fb62d62-08d3-4dfd-bcc0-acfd1726eece.mp4
 
-5. Menu
+**5. Menu**
+
+same output. different approach
+
+https://user-images.githubusercontent.com/57343545/174612687-1d267301-4620-468c-81f1-4c4b4ca97259.mp4
 
 6. Tabs
 
