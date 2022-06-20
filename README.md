@@ -40,7 +40,11 @@ same output. different approach
 
 https://user-images.githubusercontent.com/57343545/174530559-6978ba29-49a3-4d6b-ae59-33f71d97b20d.mp4
 
-4. Questions
+**4. Questions**
+
+same output. no need to store the data in `useState([])`
+
+https://user-images.githubusercontent.com/57343545/174538114-6fb62d62-08d3-4dfd-bcc0-acfd1726eece.mp4
 
 5. Menu
 
