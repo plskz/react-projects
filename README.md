@@ -52,7 +52,11 @@ same output. different approach
 
 https://user-images.githubusercontent.com/57343545/174612687-1d267301-4620-468c-81f1-4c4b4ca97259.mp4
 
-6. Tabs
+**6. Tabs**
+
+same output.
+
+https://user-images.githubusercontent.com/57343545/174714615-533e8f30-ac1e-4234-8eda-e9535a88f0c1.mp4
 
 7. Slider
 
