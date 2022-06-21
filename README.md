@@ -58,7 +58,11 @@ same output.
 
 https://user-images.githubusercontent.com/57343545/174714615-533e8f30-ac1e-4234-8eda-e9535a88f0c1.mp4
 
-7. Slider
+**7. Slider**
+
+same output. different approach
+
+https://user-images.githubusercontent.com/57343545/174792481-0154aaf2-8340-4ec2-bed9-a9a0067a41d9.mp4
 
 ### Forms
 
