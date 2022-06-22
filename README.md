@@ -66,7 +66,11 @@ https://user-images.githubusercontent.com/57343545/174792481-0154aaf2-8340-4ec2-
 
 ### Forms
 
-8. Lorem Ipsum Generator
+**8. Lorem Ipsum Generator**
+
+same output. different approach
+
+https://user-images.githubusercontent.com/57343545/175001601-7155b7c4-3c38-41cf-ae4b-a5c8796f2ebf.mp4
 
 9. Color Shades Generator
 
