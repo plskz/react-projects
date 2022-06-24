@@ -72,7 +72,11 @@ same output. different approach
 
 https://user-images.githubusercontent.com/57343545/175001601-7155b7c4-3c38-41cf-ae4b-a5c8796f2ebf.mp4
 
-9. Color Shades Generator
+**9. Color Shades Generator**
+
+same output. different approach
+
+https://user-images.githubusercontent.com/57343545/175538137-3161f8de-3773-4908-9b78-06b8c344fec8.mp4
 
 10. Grocery Bud
 
