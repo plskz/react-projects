@@ -92,7 +92,9 @@ https://user-images.githubusercontent.com/57343545/175971275-07dbd50e-60f4-4e90-
 
 ### useContext
 
-12. Modal And Sidebar
+**12. Modal And Sidebar**
+
+https://user-images.githubusercontent.com/57343545/176377199-37d94793-94c9-415a-b3b4-7c885750898c.mp4
 
 13. Stripe Submenus
 
