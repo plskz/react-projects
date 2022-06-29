@@ -88,15 +88,23 @@ https://user-images.githubusercontent.com/57343545/175917785-120cfe3f-72f2-4b6f-
 
 **11. Navbar**
 
+same output. different approach
+
 https://user-images.githubusercontent.com/57343545/175971275-07dbd50e-60f4-4e90-810c-498579becd12.mp4
 
 ### useContext
 
 **12. Modal And Sidebar**
 
+same output. different approach
+
 https://user-images.githubusercontent.com/57343545/176377199-37d94793-94c9-415a-b3b4-7c885750898c.mp4
 
 13. Stripe Submenus
+
+same output. different approach
+
+https://user-images.githubusercontent.com/57343545/176429516-a7253caa-9092-4ffb-9e65-ca222dacdc3f.mp4
 
 ### useReducer and useContext
 
