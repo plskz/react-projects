@@ -100,7 +100,7 @@ same output. different approach
 
 https://user-images.githubusercontent.com/57343545/176377199-37d94793-94c9-415a-b3b4-7c885750898c.mp4
 
-13. Stripe Submenus
+**13. Stripe Submenus**
 
 same output. different approach
 
@@ -108,7 +108,9 @@ https://user-images.githubusercontent.com/57343545/176429516-a7253caa-9092-4ffb-
 
 ### useReducer and useContext
 
-14. Cart
+**14. Cart**
+
+https://user-images.githubusercontent.com/57343545/176677329-19835370-e867-4dba-81cd-96cc29ca190b.mp4
 
 ### React Router and useCallback
 
