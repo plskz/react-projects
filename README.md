@@ -112,10 +112,14 @@ https://user-images.githubusercontent.com/57343545/176429516-a7253caa-9092-4ffb-
 
 **14. Cart**
 
+same output. different approach
+
 https://user-images.githubusercontent.com/57343545/176677329-19835370-e867-4dba-81cd-96cc29ca190b.mp4
 
 ### React Router and useCallback
 
 **15. Cocktails**
+
+same output. different approach
 
 https://user-images.githubusercontent.com/57343545/176864734-4ce9bf3d-8969-404d-ac28-b07f2996326d.mp4
