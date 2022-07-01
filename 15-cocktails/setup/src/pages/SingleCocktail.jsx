@@ -4,15 +4,12 @@ import { useParams, Link } from 'react-router-dom';
 
 import Loading from '../components/Loading';
 
-import Error from '../pages/Error';
-
 const url = 'https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=';
 
 const SingleCocktail = () => {
   const { id } = useParams();
   const [loading, setIsLoading] = React.useState(true);
-  const [error, setError] = React.useState(false);
-  const [cocktail, setCocktail] = useState({});
+  const [cocktail, setCocktail] = useState(null);
 
   useEffect(() => {
     axios
@@ -20,14 +17,14 @@ const SingleCocktail = () => {
       .then((res) => {
         const data = res.data;
         const { drinks } = data;
-        const {
-          strDrink,
-          strCategory,
-          strDrinkThumb,
-          strAlcoholic,
-          strGlass,
-          strInstructions,
-        } = drinks[0];
+
+        if (!drinks) {
+          setIsLoading(false);
+          setCocktail(null);
+          return;
+        }
+
+        const { strDrink, strCategory, strDrinkThumb, strAlcoholic, strGlass, strInstructions } = drinks[0];
 
         //#region FUCK THIS SHIT
         const ingredient = [];
@@ -56,7 +53,6 @@ const SingleCocktail = () => {
       })
       .catch((err) => {
         setIsLoading(false);
-        setError(true);
         console.log(err);
       });
   }, [id]);
@@ -65,8 +61,8 @@ const SingleCocktail = () => {
     return <Loading />;
   }
 
-  if (error) {
-    return <Error />;
+  if (!cocktail) {
+    return <h2 className='section-title'>no cocktail to display</h2>;
   }
 
   const { name, category, image, info, glass, instructions, ingredients } = cocktail;

@@ -1,4 +1,4 @@
-import React, { useState, useContext, useEffect } from 'react';
+import React, { useState, useContext, useEffect, useCallback } from 'react';
 import axios from 'axios';
 
 // import { useCallback } from 'react';
@@ -11,7 +11,7 @@ const AppProvider = ({ children }) => {
   const [searchTerm, setSearchTerm] = useState('a');
   const [cocktails, setCocktails] = useState([]);
 
-  const fetchData = () => {
+  const fetchData = useCallback(() => {
     setLoading(true);
     axios
       .get(url + searchTerm)
@@ -45,12 +45,11 @@ const AppProvider = ({ children }) => {
         console.log(err);
         setLoading(false);
       });
-  };
+  }, [searchTerm]);
 
   useEffect(() => {
     fetchData();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [searchTerm]);
+  }, [searchTerm, fetchData]);
 
   return (
     <AppContext.Provider
@@ -65,6 +64,7 @@ const AppProvider = ({ children }) => {
     </AppContext.Provider>
   );
 };
+
 // make sure use
 export const useGlobalContext = () => {
   return useContext(AppContext);
